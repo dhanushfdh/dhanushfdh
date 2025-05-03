@@ -12,7 +12,7 @@
 
 ### 🧠 Who Am I?
 
-🔐 Cybersecurity Analyst with 7+ years of experience in:
+🔐 Cybersecurity Analyst with 5+ years of experience in:
 - Penetration Testing (Web / API / GraphQL)
 - Vulnerability Assessment & Exploitation
 - Digital Forensics & Mobile Data Extraction
@@ -54,9 +54,9 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- 📸 [Instagram – BrandEcho](https://instagram.com/YOUR-INSTAGRAM)
-- 🐦 [Twitter](https://twitter.com/YOUR-TWITTER)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanush-s-396a70168/)
+- 🐦 [Twitter / X](https://x.com/legionfdh)
+- 📧 Email: [dhanushfdh@gmail.com](mailto:dhanushfdh@gmail.com)
 
 ---
 
